@@ -31,5 +31,7 @@ Simplified wallet setup, bridging safety, beginner tools & mod-ready onboarding 
 
 - 💼 LinkedIn:: **[https://www.linkedin.com/in/aklesh-sahoo-040202317](https://www.linkedin.com/in/aklesh-sahoo-040202317/)**
 
-- 📩 Email: **Aklesh94@gmail.com**
+- 📩 Email: **Aklesh94@gmail.com** 
+
+Thanks
 
