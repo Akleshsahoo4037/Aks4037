@@ -29,7 +29,7 @@ Simplified wallet setup, bridging safety, beginner tools & mod-ready onboarding 
 ************************************************************************************************************
 💬 Connect With Me
 
-- 💼 LinkedIn:: [https://www.linkedin.com/in/aklesh-sahoo-040202317/](https://www.linkedin.com/in/aklesh-sahoo-040202317/)
+- 💼 LinkedIn:: **[https://www.linkedin.com/in/aklesh-sahoo-040202317](https://www.linkedin.com/in/aklesh-sahoo-040202317/)**
 
 - 📩 Email: **Aklesh94@gmail.com**
 
