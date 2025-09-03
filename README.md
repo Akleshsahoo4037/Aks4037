@@ -1,13 +1,16 @@
-# Aks4037
-Hey, I'm Aklesh Sahoo 👋
+# Hey, I'm Aklesh Sahoo 👋
 
-💼 About Me
+# Web3 Community & Social Media Manager
+
+**************************************************************************************************************
+
+💼 About Me: 
 
 🧑‍💻 Web3 Community & Social Specialist with 8 years of experience
 ****************************************************************************************************************
 🚀 Worked with Paycio, NitroNetwork, IBCmedia, Coinbase, Nowfloats, and Sutherland Global Services
 
-🎯 Skilled in support systems, ticket handling, Discord setup, Social media & content planning, Community management
+🎯 Skilled in support systems, ticket handling, Discord setup, Social media & content planning, Event manager and Community management
 
 🔧 Tools: Discord, Zealy, Guild.xyz, Notion, Typefully, MEE6, Carl-bot etc..
 ****************************************************************************************************************
